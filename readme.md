@@ -102,7 +102,7 @@ Skila skal í Canvas í seinasta lagi fyrir lok dags fimmtudaginn 20. mars 2025.
 
 Skil skulu innihalda:
 
-- Slóð á verkefni keyrandi á Netlify.
+- Slóð á verkefni keyrandi.
 - Slóð á GitHub repo fyrir verkefni. Dæmatímakennurum skal hafa verið boðið í repo. Notendanöfn þeirra eru:
   - `osk`
   - `ofurtumi`
@@ -122,8 +122,9 @@ Sett verða fyrir ([sjá nánar í kynningu á áfanga](https://github.com/veffo
 
 ---
 
-> Útgáfa 0.1
+> Útgáfa 0.2
 
 | Útgáfa | Breyting      |
 | ------ | ------------- |
 | 0.1    | Fyrsta útgáfa |
+| 0.2    | Taka út að skila þurfi á Netlify |
