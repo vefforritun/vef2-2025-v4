@@ -10,7 +10,7 @@ Verkefnið snýst um að setja upp react framenda fyrir vefþjónustu gerða í 
 
 ## Vefþjónustur og gögn
 
-Þið getið notað þá vefþjónustu sem þið smíðuðuð í verkefni 3 eða notað [sýnilausn á verkefni 3](https://github.com/vefforritun/vef2-2023-v3-synilausn) (gefin út 10. mars).
+Þið getið notað þá vefþjónustu sem þið smíðuðuð í verkefni 3 eða notað [sýnilausn á verkefni 3](https://github.com/vefforritun/vef2-2025-v3-synilausn) (gefin út 10. mars).
 
 ## Virkni
 
@@ -122,9 +122,10 @@ Sett verða fyrir ([sjá nánar í kynningu á áfanga](https://github.com/veffo
 
 ---
 
-> Útgáfa 0.2
+> Útgáfa 0.3
 
 | Útgáfa | Breyting      |
 | ------ | ------------- |
 | 0.1    | Fyrsta útgáfa |
 | 0.2    | Taka út að skila þurfi á Netlify |
+| 0.3    | Laga hlekk á sýnilausn að v3 |
